@@ -1,4 +1,4 @@
-﻿numpy
+numpy
 pandas
 seaborn
 matplotlib
@@ -9,4 +9,5 @@ wordcloud
 beautifulsoup4
 selenium
 networkx
-streamlit
+streamlit==1.29.0
+altair==4.2.2
